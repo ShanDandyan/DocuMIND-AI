@@ -1,10 +1,12 @@
 streamlit
-PyPDFLoader
-RecursiveCharacterTextSplitter
-HuggingFaceEmbeddings
-Groq
 FAISS
 tempfile
 os
 langchain
 langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+groq
+pypdf
+sentence-transformers
