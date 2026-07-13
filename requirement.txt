@@ -1,0 +1,10 @@
+streamlit
+PyPDFLoader
+RecursiveCharacterTextSplitter
+HuggingFaceEmbeddings
+Groq
+FAISS
+tempfile
+os
+langchain
+langchain-community
